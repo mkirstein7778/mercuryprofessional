@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Mercury Professional Consulting</title>
+
+<style>
+
+    body { font-family: Arial, sans-serif; }
+
+    .section { padding: 20px; }
+
+    .overlay { position: relative; text-align: center; color: white; }
+
+    .overlay img { width: 100%; }
+
+    .overlay-text { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+
+    .two-columns { display: flex; justify-content: space-between; }
+
+    .column { flex: 1; padding: 10px; }
+
+    .column img { width: 100%; margin-bottom: 20px; }
+
+    .contact-info, .principles { text-align: center; }
+
+    .linkedin-icon { width: 24px; height: 24px; }
+
+</style>
+
+</head>
+
+<body>
+
+ 
+
+<div class="section overlay">
+
+    <img src="business-consultant.jpg" alt="Business Consultant">
+
+    <div class="overlay-text">
+
+        <h1>MAXIMIZE YOUR BUSINESS</h1>
+
+        <p>Expert consulting services for growth and optimization.</p>
+
+    </div>
+
+</div>
+
+ 
+
+<div class="section two-columns">
+
+    <div class="column">
+
+        <img src="conference-room.jpg" alt="Conference Room">
+
+        <h2>Our Expertise</h2>
+
+        <p>We have over 20 years of experience in providing business and management consulting services to companies of all types and sizes. Our specialties include:</p>
+
+        <ul>
+
+            <li>Sales Optimization</li>
+
+            <li>Cyber Security, Privacy and AI Governance</li>
+
+            <li>Policies and Processes</li>
+
+            <li>Change Management</li>
+
+            <li>Training</li>
+
+        </ul>
+
+    </div>
+
+    <div class="column">
+
+        <img src="consultant-computer.jpg" alt="Consultant at Computer">
+
+        <h2>Our Approach</h2>
+
+        <p>Each engagement is a customized approach, relying on a proven methodology. We do an assessment to identify your current state, and objectives. Then we do detailed discovery, followed by implementation. Implementation includes change management so your target outcomes become repeatable and sustainable.</p>
+
+    </div>
+
+</div>
+
+ 
+
+<div class="section contact-info">
+
+    <h2>Contact us</h2>
+
+    <p>mark@mercuryprofessional.com<br>Phone: 480-678-7778</p>
+
+</div>
+
+ 
+
+<div class="section principles">
+
+    <h2>Principles</h2>
+
+    <p>Mark Kirstein<br><a href="https://www.linkedin.com/in/markkirstein/"><img src="linkedin-icon.png" alt="LinkedIn" class="linkedin-icon"></a></p>
+
+    <p>Linc Miller<br><a href="https://www.linkedin.com/in/lincmiller/"><img src="linkedin-icon.png" alt="LinkedIn" class="linkedin-icon"></a></p>
+
+</div>
+
+ 
+
+</body>
+
+</html>
